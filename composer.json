@@ -1,5 +1,5 @@
 {
-    "name": "noinput/yii-sentry",
+    "name": "intersvyaz/yii-sentry",
     "description": "Sentry component and LogRoute for Yii1",
     "minimum-stability": "stable",
     "license": "MIT",
@@ -12,7 +12,7 @@
         "phpunit/phpunit": "~4.5"
     },
     "autoload": {
-        "psr-4": {"Noinput\\YiiSentry\\": ""}
+        "psr-4": {"Intersvyaz\\YiiSentry\\": ""}
     },
     "authors" : []
 }
